@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MatheusCarlosB2
 - 👀 I’m interested in Data Science/AI
-- 🌱 I’m currently learning Python and R
-- 📫 How to reach me; https://twitter.com/TeusBelchior
+- 🌱 I’m currently learning Python
