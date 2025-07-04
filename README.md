@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @MatheusCarlosB2
+- 👋 Hi, I’m @Matheus.Belchior
 - 👀 I’m interested in Data Science/AI
 - 🌱 I’m currently learning Python
